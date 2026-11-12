@@ -38,7 +38,7 @@ I am a data-driven professional specializing in data engineering, ETL pipelines,
 * Orchestrated distributed MapReduce analytics pipelines on AWS EMR to analyze multi-gigabyte NYC taxi datasets.
 * Designed real-time streaming pipelines in Scala using Apache Spark Streaming for stateless log frequency counting and window aggregations.
 
-#### 4. [Interactive Macroeconomic Dashboard](#)
+#### 4. [Interactive Macroeconomic Dashboard](https://s4153365.shinyapps.io/Australia_CPI/)
 *Python • R Shiny • Plotly • SQL*
 * Engineered an interactive dashboard utilizing R Shiny and Plotly to visualize complex metrics and long-term economic trends.
 * Executed complex SQL queries involving multi-table JOINs and aggregations to clean and analyze backend datasets.
