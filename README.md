@@ -22,7 +22,7 @@ I am a data-driven professional specializing in data engineering, ETL pipelines,
 
 ### 🚀 Featured Projects
 
-#### 1. [Modern Clinical Data Repository (MIMIC-IV)](#)
+#### 1. [Modern Clinical Data Repository (MIMIC-IV)](https://github.com/tejeswar95/RMIT_CDR_Capstone)
 *Databricks • Delta Lake • PySpark • Unity Catalog • Medallion Architecture*
 * Architected an enterprise-grade Clinical Data Repository on the Databricks platform integrating 31 healthcare datasets.
 * Engineered a dimensional Gold star-schema (15 dimension tables, 13 fact tables) to enable high-performance analytical queries.
