@@ -5,7 +5,7 @@
 I am a data-driven professional specializing in data engineering, ETL pipelines, and cloud analytics. I am passionate about architecting scalable data solutions, building Medallion architectures, and developing interactive dashboards to deliver customer-centric, data-driven insights. 
 
 - 🎓 Currently completing my **Master of Science in Data Science** at RMIT University.
-- 📍 Based in Melbourne, Victoria (Open to relocation).
+- 📍 Based in Melbourne, Victoria (Open to relocate).
 - 💼 Actively seeking Junior Data Engineer and Data Analyst roles.
 - 📫 Reach me at: [tejeswar0874@gmail.com](mailto:tejeswar0874@gmail.com)
 
